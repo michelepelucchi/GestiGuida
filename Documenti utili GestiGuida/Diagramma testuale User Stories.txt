@@ -1,0 +1,31 @@
+GESTIGUIDA - MAPPA DELLE USER STORIES
+│
+├── EPICA 1: Accesso e Profilazione Ruoli
+│   ├── [US-01] Come Titolare, voglio assegnare credenziali e ruoli specifici (segreteria, istruttore, allievo),
+│   │           per garantire che ogni utente acceda solo alle funzioni di sua competenza.
+│   └── [US-02] Come Utente registrato, voglio effettuare il login nella web app,
+│               per visualizzare immediatamente la mia area operativa dedicata.
+│
+├── EPICA 2: Gestione Allievi, Pratiche e Scadenze
+│   ├── [US-03] Come Segretaria, voglio inserire e aggiornare l'anagrafica e la pratica di un nuovo allievo,
+│   │           per sostituire i registri cartacei ed evitare errori o perdita di dati.
+│   ├── [US-04] Come Segretaria, voglio ricevere un avviso automatico prima della scadenza dei 6 mesi del foglio rosa,
+│   │           per prenotare in tempo l'esame pratico ed evitare che il documento scada.
+│   └── [US-05] Come Titolare, voglio monitorare le scadenze di revisione e assicurazione dei veicoli,
+│               per mantenere la flotta sempre in regola e operativa.
+│
+├── EPICA 3: Pianificazione Guide e Risorse
+│   ├── [US-06] Come Segretaria, voglio prenotare una guida abbinando allievo, istruttore e veicolo con controllo conflitti,
+│   │           per impedire sovrapposizioni orarie senza dover fare continue telefonate.
+│   ├── [US-07] Come Istruttore, voglio consultare la mia agenda giornaliera delle guide assegnate e il veicolo previsto,
+│   │           per organizzare la giornata lavorativa con chiarezza.
+│   └── [US-08] Come Allievo, voglio consultare il calendario delle mie guide e la scadenza del mio foglio rosa,
+│               per avere sempre sotto controllo il mio percorso senza chiamare la segreteria.
+│
+└── EPICA 4: Contabilità e Controllo di Gestione
+    ├── [US-09] Come Segretaria, voglio registrare i pagamenti ricevuti e visualizzare i saldi residui di ogni allievo,
+    │           per tenere traccia precisa di incassi e insoluti.
+    ├── [US-10] Come Allievo, voglio visualizzare lo storico dei miei pagamenti e l'importo ancora da saldare,
+    │           per conoscere in autonomia la mia situazione contabile.
+    └── [US-11] Come Titolare, voglio consultare una dashboard con numero iscritti, incassi, insoluti e guide svolte,
+                per avere una visione chiara e aggiornata dell'andamento dell'autoscuola.
